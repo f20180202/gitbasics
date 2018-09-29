@@ -1,3 +1,3 @@
 # gitbasics
 learning github
-this is a
+this is a commit
